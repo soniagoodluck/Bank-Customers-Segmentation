@@ -2,7 +2,7 @@
 Dataset from Kaggle- https://www.kaggle.com/arjunbhasin2013/ccdata
 
 The aim is to develop a customer segmentation for marketing strategy.
-The dataset contains 9000 case studies with 18 behavioural variables of credit cardholders for six months. 
+The dataset contains 8951 case studies with 18 behavioural variables of credit cardholders for six months. 
 
 Following is the Data Dictionary for Credit Card dataset :-
 
